@@ -1,0 +1,98 @@
+commit 1e1279c05d1911b36ef96a3d56dcdff9a55aa9d5
+Author: Sofia <sofiamino78@gmail.com>
+Date:   Mon Sep 4 22:52:14 2023 -0300
+
+    Agregando 2 párrafos
+
+commit 886d831378df8d6054848bef39752de2fd2e50c5
+Merge: b1adb4a ffc7b6c
+Author: Sofia <sofiamino78@gmail.com>
+Date:   Mon Sep 4 22:48:41 2023 -0300
+
+    Resolviendo conficto en estaciones del año y fechas de inicio
+
+commit b1adb4a9dd3d9f9043b85b0dd7d7e4a04da0d233
+Author: Sofia <sofiamino78@gmail.com>
+Date:   Mon Sep 4 20:58:36 2023 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit ffc7b6c0370c8232da194110a4ca5f811cbc61f0
+Author: Sofia <sofiamino78@gmail.com>
+Date:   Mon Sep 4 20:58:36 2023 -0300
+
+    Agregando las estaciones del año
+
+commit 73c8c7f54433ae31cfa8a96f3779067a161d2c3c
+Merge: f61a08a 882e235
+Author: Sofia <sofiamino78@gmail.com>
+Date:   Mon Sep 4 20:51:31 2023 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 882e235c3a62f1faad40d909377add5a024ab80d
+Author: Sofia <sofiamino78@gmail.com>
+Date:   Mon Sep 4 20:45:09 2023 -0300
+
+    Agregando index.js al index.html
+
+commit f61a08a1cc5874cae2f4bfd6a11cf3ad029f322d
+Author: Sofia <sofiamino78@gmail.com>
+Date:   Mon Sep 4 20:42:17 2023 -0300
+
+    Agregando style
+
+commit 72db8be18dfdadcc478b4a6b8e062a748cbca81b
+Merge: afb061d 32a20e3
+Author: Sofia <sofiamino78@gmail.com>
+Date:   Mon Sep 4 20:33:32 2023 -0300
+
+    Merge branch 'js'
+
+commit 32a20e39a787900ab4caa3d0ec3880d8217b9b6f
+Author: Sofia <sofiamino78@gmail.com>
+Date:   Mon Sep 4 20:25:36 2023 -0300
+
+    Creando index.js
+
+commit afb061de36c3139d67c52be4f56115cf6778b68d
+Author: Sofia <sofiamino78@gmail.com>
+Date:   Mon Sep 4 20:19:58 2023 -0300
+
+    Creando style.css
+
+commit af592ecb94959013a801f18b215c1cc7c07729ee
+Author: Sofia <sofiamino78@gmail.com>
+Date:   Mon Sep 4 20:15:20 2023 -0300
+
+    Creando index.html
+
+commit 62e61096c006b79fdf7fac5b02153c9b693d120d
+Author: Sofia <sofiamino78@gmail.com>
+Date:   Mon Sep 4 19:57:35 2023 -0300
+
+    Ignorando archivos .exe
+
+commit 7f7819d4c31bfa3f93528f3d35f7a211a230755d
+Author: sofiamino78 <128640403+sofiamino78@users.noreply.github.com>
+Date:   Mon Sep 4 19:05:01 2023 -0300
+
+    Creando licencia del repositorio
+
+commit caa5236c82a55812405e294f3999dd0161d2da95
+Author: Sofia <sofiamino78@gmail.com>
+Date:   Mon Sep 4 11:46:50 2023 -0300
+
+    Agregando mas contenido al README
+
+commit 786cd08f81ad96262dce3db188bf7ef82d0c7b7e
+Author: Sofia <sofiamino78@gmail.com>
+Date:   Mon Sep 4 11:33:58 2023 -0300
+
+    Agregando contenido inicial al README
+
+commit 77ba704fecb23d75f9f518392e762f896992b275
+Author: Sofia <sofiamino78@gmail.com>
+Date:   Mon Sep 4 11:29:33 2023 -0300
+
+    Primer commit
